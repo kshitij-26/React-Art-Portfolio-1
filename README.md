@@ -1,3 +1,3 @@
 # Portfolio
-##Team Members-
+Team Members-
 Jasjeet 
