@@ -1,9 +1,5 @@
 # Team Members
 
-Jasjeet
-Kshitij
-Shivansh
-Harsh
-Repo name changed
-
 This is Harsh's Branch
+
+Please be careful when working in this branch and please dont make unneccesary changes.
